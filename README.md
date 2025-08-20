@@ -48,7 +48,7 @@ The project was created as part of my practice to improve my semantic HTML and w
 -   Open `index.html` directly in your browser  
     **or**
 -   View it live on GitHub Pages (if enabled):  
-    👉 [Live Demo](https://github.com/P-Mena/Single-Page-CV)
+    👉 [Live Demo](<[text](https://github.com/P-Mena/Single-Page-CV)>)
 
 ---
 
