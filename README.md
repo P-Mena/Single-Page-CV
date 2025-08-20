@@ -12,7 +12,7 @@ The project was created as part of my practice to improve my semantic HTML and w
 ---
 
 ## 🚀 Features
-- Semantic HTML structure with `<header>`, `<section>`, `<article>`, and `<footer>`.
+- Semantic HTML structure with `<header>`, `<section>`, and `<footer>`.
 - Sections for **Profile**, **Skills**, **Education**, and **Work Experience**.
 - Basic SEO meta tags and Open Graph tags for social sharing.
 - Favicon support.
