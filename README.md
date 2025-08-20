@@ -36,9 +36,10 @@ The project was created as part of my practice to improve my semantic HTML and w
 ## 📂 Project Structure
 
 .
-index.html <!-- Main CV Page-->
-resources/ <!-- Resouces folder-->
-README.md <!-- Project Documentation -->
+
+-   `index.html` <!--Main CV Page -->
+-   `resources/` <!--Resouces folder-->
+-   `README.md`<!--Project Documentation-->
 
 ---
 
